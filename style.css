@@ -81,7 +81,7 @@ body {
 
 footer {
    position: absolute;
-   bottom: 35%;
+   bottom: 10%;
    font-size: 11px; 
    text-align: center;
    color: var(--light-cyan);
