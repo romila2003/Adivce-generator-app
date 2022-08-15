@@ -25,25 +25,25 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 # Mobile Preview 
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Adivce-generator-app/blob/main/Mobile%20preview.PNG)
 
 # Mobile Preview - active
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Adivce-generator-app/blob/main/Mobile%20preview%20-%20active.PNG)
 
 # Desktop Preview 
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Adivce-generator-app/blob/main/Desktop%20preview.PNG)
 
 # Desktop Preview - active
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Adivce-generator-app/blob/main/Desktop%20preview%20-%20active.PNG)
 
 
 ### Links
 
- - Source code: []()
- - Live website: []()
+ - Source code: [https://github.com/romila2003/Adivce-generator-app](https://github.com/romila2003/Adivce-generator-app)
+ - Live website: [https://frontend-advice-generator-app.netlify.app/](https://frontend-advice-generator-app.netlify.app/)
 
 ## My process
 
